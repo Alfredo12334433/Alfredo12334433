@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <div align="center">
-  Hi there 👋
+ ### Hola soy Alfredo! 👋
 </div>
 
 <!--
